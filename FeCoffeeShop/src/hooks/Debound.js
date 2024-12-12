@@ -1,0 +1,25 @@
+import { useEffect, useState } from "react";
+
+/**
+ * Custom hook để debounce một giá trị.
+ * @param value - Giá trị cần debounce
+ * @param delay - Thời gian delay tính bằng milliseconds
+ * @returns - Giá trị đã được debounce
+ */
+const useDebounce = (value, delay) => {
+  const [debouncedValue, setDebouncedValue] = useState(value);
+
+  useEffect(() => {
+    const handler = setTimeout(() => {
+      setDebouncedValue(value);
+    }, delay);
+
+    return () => {
+      clearTimeout(handler);
+    };
+  }, [value, delay]);
+
+  return debouncedValue;
+};
+
+export default useDebounce;

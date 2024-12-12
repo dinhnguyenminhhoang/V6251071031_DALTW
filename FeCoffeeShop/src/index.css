@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.ant-input-search-button {
+  background-color: #270c03;
+}
+.ant-table-thead > tr > th {
+  background-color: #999;
+  color: #001529 !important;
+  font-weight: bold;
+  text-align: center;
+  border: 1px solid #999 !important;
+}
+
+.ant-table-tbody > tr > td {
+  text-align: center;
+  border: 1px solid #999 !important;
+}
+
+.gold-type-column {
+  text-align: left;
+  padding-left: 16px;
+}
+/* .container {
+    max-width: 1200px;
+} */
+.spin {
+  animation: spin 40s linear infinite;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 10px;
+  border: 3px solid #f1f1f1;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

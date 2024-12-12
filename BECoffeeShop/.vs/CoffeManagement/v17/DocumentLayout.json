@@ -1,0 +1,775 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\services\\drinkservice\\drinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\services\\drinkservice\\drinkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\controllers\\drinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\controllers\\drinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\dto\\drink\\listdinkfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\dto\\drink\\listdinkfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\services\\staffservice\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\services\\staffservice\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\infrastructure\\jwt\\jwtutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\infrastructure\\jwt\\jwtutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\extensions\\jwt\\jwtextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\extensions\\jwt\\jwtextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\models\\enum\\authrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\models\\enum\\authrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\infrastructure\\jwt\\appclaimtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\infrastructure\\jwt\\appclaimtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\services\\brachservice\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\services\\brachservice\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\services\\brachservice\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\services\\brachservice\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\models\\enum\\staffposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\models\\enum\\staffposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\models\\enum\\ordertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\models\\enum\\ordertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\models\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\models\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\models\\enum\\authpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\models\\enum\\authpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\models\\enum\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\models\\enum\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\models\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\models\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\services\\authenticationservice\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\services\\authenticationservice\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\services\\authenticationservice\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\services\\authenticationservice\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\dto\\branch\\branchesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\dto\\branch\\branchesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\data\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\data\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\common\\pagging\\paginglistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\common\\pagging\\paginglistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\repositories\\branchrepo\\branchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\repositories\\branchrepo\\branchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\dto\\branch\\updatebranchesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\dto\\branch\\updatebranchesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\dto\\branch\\branchesdetailreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\dto\\branch\\branchesdetailreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\dto\\branch\\createbranchesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\dto\\branch\\createbranchesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\repositories\\branchrepo\\ibranchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\repositories\\branchrepo\\ibranchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\repositories\\sqlserverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\repositories\\sqlserverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\repositories\\irepositoryqueryable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\repositories\\irepositoryqueryable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\services\\ingredientservice\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\services\\ingredientservice\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|d:\\workspace\\project\\coffeeshop\\becoffeeshop\\coffemanagement\\services\\ingredientservice\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8634E1B-892A-412A-A23F-92145DA1A035}|CoffeManagement\\CoffeManagement.csproj|solutionrelative:coffemanagement\\services\\ingredientservice\\iingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrinkService.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\DrinkService\\DrinkService.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Services\\DrinkService\\DrinkService.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\DrinkService\\DrinkService.cs",
+              "RelativeToolTip": "CoffeManagement\\Services\\DrinkService\\DrinkService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:54:12.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListDinkFilter.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\DTO\\Drink\\ListDinkFilter.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\DTO\\Drink\\ListDinkFilter.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\DTO\\Drink\\ListDinkFilter.cs",
+              "RelativeToolTip": "CoffeManagement\\DTO\\Drink\\ListDinkFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:53:46.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\OrderService\\OrderService.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Services\\OrderService\\OrderService.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\OrderService\\OrderService.cs",
+              "RelativeToolTip": "CoffeManagement\\Services\\OrderService\\OrderService.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAwwMMAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:48:31.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\StaffService\\StaffService.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Services\\StaffService\\StaffService.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\StaffService\\StaffService.cs",
+              "RelativeToolTip": "CoffeManagement\\Services\\StaffService\\StaffService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:48:27.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtExtension.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Extensions\\Jwt\\JwtExtension.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Extensions\\Jwt\\JwtExtension.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Extensions\\Jwt\\JwtExtension.cs",
+              "RelativeToolTip": "CoffeManagement\\Extensions\\Jwt\\JwtExtension.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwEYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:42:03.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppClaimTypes.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Infrastructure\\Jwt\\AppClaimTypes.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Infrastructure\\Jwt\\AppClaimTypes.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Infrastructure\\Jwt\\AppClaimTypes.cs",
+              "RelativeToolTip": "CoffeManagement\\Infrastructure\\Jwt\\AppClaimTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:41:59.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtUtil.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Infrastructure\\Jwt\\JwtUtil.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Infrastructure\\Jwt\\JwtUtil.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Infrastructure\\Jwt\\JwtUtil.cs",
+              "RelativeToolTip": "CoffeManagement\\Infrastructure\\Jwt\\JwtUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:41:44.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CoffeManagement\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:17:23.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CoffeManagement\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAuwLkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:12:55.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "CoffeManagement\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:36:18.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StaffPosition.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Enum\\StaffPosition.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Models\\Enum\\StaffPosition.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Enum\\StaffPosition.cs",
+              "RelativeToolTip": "CoffeManagement\\Models\\Enum\\StaffPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:35:31.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderType.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Enum\\OrderType.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Models\\Enum\\OrderType.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Enum\\OrderType.cs",
+              "RelativeToolTip": "CoffeManagement\\Models\\Enum\\OrderType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:35:30.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Enum\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Models\\Enum\\OrderStatus.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Enum\\OrderStatus.cs",
+              "RelativeToolTip": "CoffeManagement\\Models\\Enum\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:35:28.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthPolicy.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Enum\\AuthPolicy.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Models\\Enum\\AuthPolicy.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Enum\\AuthPolicy.cs",
+              "RelativeToolTip": "CoffeManagement\\Models\\Enum\\AuthPolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:35:15.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Enum\\AccountType.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Models\\Enum\\AccountType.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Enum\\AccountType.cs",
+              "RelativeToolTip": "CoffeManagement\\Models\\Enum\\AccountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:35:11.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrinkController.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Controllers\\DrinkController.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Controllers\\DrinkController.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Controllers\\DrinkController.cs",
+              "RelativeToolTip": "CoffeManagement\\Controllers\\DrinkController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAD4vxsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:31:20.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Drink.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Models\\Drink.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Drink.cs",
+              "RelativeToolTip": "CoffeManagement\\Models\\Drink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:31:16.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CoffeManagement\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwDIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:30:39.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\AuthenticationService\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Services\\AuthenticationService\\IAuthenticationService.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\AuthenticationService\\IAuthenticationService.cs",
+              "RelativeToolTip": "CoffeManagement\\Services\\AuthenticationService\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:18:26.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthRole.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Enum\\AuthRole.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Models\\Enum\\AuthRole.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Enum\\AuthRole.cs",
+              "RelativeToolTip": "CoffeManagement\\Models\\Enum\\AuthRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T01:37:15.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Data\\DBContext.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Data\\DBContext.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Data\\DBContext.cs",
+              "RelativeToolTip": "CoffeManagement\\Data\\DBContext.cs",
+              "ViewState": "AgIAAEgBAAAAAAAAAIBJwC4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T01:34:39.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Data\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Data\\ApiResponse.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Data\\ApiResponse.cs",
+              "RelativeToolTip": "CoffeManagement\\Data\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T01:34:34.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\AuthenticationService\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Services\\AuthenticationService\\AuthenticationService.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\AuthenticationService\\AuthenticationService.cs",
+              "RelativeToolTip": "CoffeManagement\\Services\\AuthenticationService\\AuthenticationService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwBgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T14:29:17.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CoffeManagement\\appsettings.Development.json",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\appsettings.Development.json",
+              "RelativeToolTip": "CoffeManagement\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T14:19:58.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BranchController.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Controllers\\BranchController.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Controllers\\BranchController.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Controllers\\BranchController.cs",
+              "RelativeToolTip": "CoffeManagement\\Controllers\\BranchController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:23:28.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "CoffeManagement\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:23:27.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BranchesDetailReponse.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\DTO\\Branch\\BranchesDetailReponse.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\DTO\\Branch\\BranchesDetailReponse.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\DTO\\Branch\\BranchesDetailReponse.cs",
+              "RelativeToolTip": "CoffeManagement\\DTO\\Branch\\BranchesDetailReponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:22:57.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BranchesResponse.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\DTO\\Branch\\BranchesResponse.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\DTO\\Branch\\BranchesResponse.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\DTO\\Branch\\BranchesResponse.cs",
+              "RelativeToolTip": "CoffeManagement\\DTO\\Branch\\BranchesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:21:13.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BranchService.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\BrachService\\BranchService.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Services\\BrachService\\BranchService.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\BrachService\\BranchService.cs",
+              "RelativeToolTip": "CoffeManagement\\Services\\BrachService\\BranchService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:49:34.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBranchService.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\BrachService\\IBranchService.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Services\\BrachService\\IBranchService.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\BrachService\\IBranchService.cs",
+              "RelativeToolTip": "CoffeManagement\\Services\\BrachService\\IBranchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:49:32.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "CoffeManagement\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:48:58.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IRepositoryQueryable.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Repositories\\IRepositoryQueryable.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Repositories\\IRepositoryQueryable.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Repositories\\IRepositoryQueryable.cs",
+              "RelativeToolTip": "CoffeManagement\\Repositories\\IRepositoryQueryable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:48:51.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SqlServerRepository.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Repositories\\SqlServerRepository.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Repositories\\SqlServerRepository.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Repositories\\SqlServerRepository.cs",
+              "RelativeToolTip": "CoffeManagement\\Repositories\\SqlServerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:48:23.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BranchRepository.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Repositories\\BranchRepo\\BranchRepository.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Repositories\\BranchRepo\\BranchRepository.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Repositories\\BranchRepo\\BranchRepository.cs",
+              "RelativeToolTip": "CoffeManagement\\Repositories\\BranchRepo\\BranchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:47:56.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IBranchRepository.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Repositories\\BranchRepo\\IBranchRepository.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Repositories\\BranchRepo\\IBranchRepository.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Repositories\\BranchRepo\\IBranchRepository.cs",
+              "RelativeToolTip": "CoffeManagement\\Repositories\\BranchRepo\\IBranchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:47:44.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdateBranchesRequest.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\DTO\\Branch\\UpdateBranchesRequest.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\DTO\\Branch\\UpdateBranchesRequest.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\DTO\\Branch\\UpdateBranchesRequest.cs",
+              "RelativeToolTip": "CoffeManagement\\DTO\\Branch\\UpdateBranchesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:46:40.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateBranchesRequest.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\DTO\\Branch\\CreateBranchesRequest.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\DTO\\Branch\\CreateBranchesRequest.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\DTO\\Branch\\CreateBranchesRequest.cs",
+              "RelativeToolTip": "CoffeManagement\\DTO\\Branch\\CreateBranchesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:46:11.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Models\\Branch.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Models\\Branch.cs",
+              "RelativeToolTip": "CoffeManagement\\Models\\Branch.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:45:02.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IngredientService.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\IngredientService\\IngredientService.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Services\\IngredientService\\IngredientService.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\IngredientService\\IngredientService.cs",
+              "RelativeToolTip": "CoffeManagement\\Services\\IngredientService\\IngredientService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowEUAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:33:40.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IIngredientService.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\IngredientService\\IIngredientService.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Services\\IngredientService\\IIngredientService.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Services\\IngredientService\\IIngredientService.cs",
+              "RelativeToolTip": "CoffeManagement\\Services\\IngredientService\\IIngredientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:33:37.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PagingListModel.cs",
+              "DocumentMoniker": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Common\\Pagging\\PagingListModel.cs",
+              "RelativeDocumentMoniker": "CoffeManagement\\Common\\Pagging\\PagingListModel.cs",
+              "ToolTip": "D:\\workspace\\project\\coffeeShop\\BECoffeeShop\\CoffeManagement\\Common\\Pagging\\PagingListModel.cs",
+              "RelativeToolTip": "CoffeManagement\\Common\\Pagging\\PagingListModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:16:43.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 723,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
